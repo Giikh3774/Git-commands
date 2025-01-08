@@ -24,3 +24,13 @@
 4. `Delete this repository` **Хамгийн доор Danger zone дотор**
 5. `To confirm, type ".." in the box below` **Энэ хэсэгт "" дотор файл нэрээ copy paste хийх**
 6. `password: ginahub4` **github-ийн password-оо заавал хийнэ**
+
+## Яг одо холбогдсон байгаа project, repo шалгах:
+1. `open terminal` **Өөрийн IDE дээр нээх**
+2. `git remote -v` **Энэ командаар ямар account, ямар project дээр ажиллаж байгаагаа харж болно**
+
+## Account сольж ашигалахадаа:
+
+1. `git push origin master` **энэ командаа terminal дээрээ бичнэ**
+2. `account gmail` **ашиглах acc-нхаа бүртгэлттэй gmail-г оруулах**
+3. `account password` **terminal дээр pass-аа оруулах**
