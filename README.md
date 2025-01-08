@@ -15,3 +15,12 @@
 5. `open IDE` **VS code, ANdroid studio зэрэг IDE-аа нээж open project хийж оруулах**
 6. `Go server` **server-ээ асаах**
 7. `http://localhost:5500/` **browser дээр гарч ирж код ажиллана**
+
+## Delete repository хийхдээ:
+
+1. `your repositories` **Өөрийн репо руугаа орох**
+2. `choose that one` **Устгах репо луугаа орох**
+3. `settings` **Дэлгэцэн дээр settings байгаа дээр дөрж доош гүйлгэнэ**
+4. `Delete this repository` **Хамгийн доор Danger zone дотор**
+5. `To confirm, type ".." in the box below` **Энэ хэсэгт "" дотор файл нэрээ copy paste хийх**
+6. `password: ginahub4` **github-ийн password-оо заавал хийнэ**
